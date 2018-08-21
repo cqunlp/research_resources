@@ -1,6 +1,12 @@
 # 1701_research_src
 Resources of CQU CS 1701 research, include NLP, Knowledge Graph,Cloud Computing, etc.
 
+使用必看：
+
+1. Git使用教程：https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+2. MarkDown书写教程：https://www.appinn.com/markdown/
+3. 上述内容不了解情况下不予以Collaborators权限，仅供下载，其他情况请使用push request进行push操作
+
 目录说明：
 
 | 文件目录            | 使用说明                                                                                       |
