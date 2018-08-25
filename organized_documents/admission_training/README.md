@@ -2,7 +2,7 @@
 
 | 类目               | 技能                 | 技能详情                              |对应文件|
 | ------------------ | -------------------- | ------------------------------------- | --- |
-| Python基础         | 常用数据结构         | list,dict,set,tuple                   |     |
+| Python基础         | 常用数据结构         | list,dict,set,tuple                   | [Python快速入门魔力手册.pdf](https://github.com/lvyufeng/1701_research_src/blob/master/organized_documents/admission_training/Python快速入门魔力手册.pdf)    |
 |                    | 字符串处理           | 分割,拼接,替换,抽取                   |     |
 |                    | 迭代器               |                                       |     |
 |                    | 文件IO               | 二进制文件,csv,json,xml               |     |
@@ -17,7 +17,7 @@
 |                    | os                   | 文件操作                              |     |
 | 可选Python第三方库 | bs4                  | Beautiful Soup, html解析器            |     |
 |                    | scrapy               | Python爬虫框架                        |     |
-| 深度学习库         | keras                |                                       |     |
+| 深度学习库         | keras                |                                       | [Deep Learning with Python.pdf](https://github.com/lvyufeng/1701_research_src/blob/master/organized_documents/admission_training/Deep_Learning_with_Python.pdf)     |
 |                    | pytorch              |                                       |     |
 |                    | TensorFlow           |                                       |     |
 | 自然语言学习库     | nltk                 |                                       |     |
